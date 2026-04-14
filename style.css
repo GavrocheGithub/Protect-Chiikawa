@@ -10,5 +10,6 @@ html, body {
 }
 
 canvas {
-  display: block;
+  display: block; 
+  touch-action: none;
 }

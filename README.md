@@ -1,4 +1,4 @@
-<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/95020853-3e5b-40dc-89a3-de4c12beac7e" /># Protect-Chiikawa
+# Protect-Chiikawa
 Interactive Media end of semester assignment
 
 Click this link to play the game: https://gavrochegithub.github.io/Protect-Chiikawa/
